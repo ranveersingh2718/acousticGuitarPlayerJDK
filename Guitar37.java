@@ -1,9 +1,5 @@
 // Ranveer Singh
 // 4/18/19
-// CSE 143 A
-// TA: Tyler Mi
-// Assignment #2
-//
 // This class creates a virtual guitar with 37 strings
 
 public class Guitar37 implements Guitar {
