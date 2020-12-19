@@ -1,1 +1,2 @@
-# uw comp sci.
+# JDK(ver 7?) and JVM only
+
